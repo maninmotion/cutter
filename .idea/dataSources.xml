@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1229720139">
+    <data-source source="LOCAL" name="Postgres" uuid="924842a0-9461-4f1b-b2cd-068e50f70faa">
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cutter_repo</jdbc-url>
+      <user-name>Kevin</user-name>
+      <user-password>dfdcdfcbdfc4dfc4dfc2dfcbdfc6dfcfdfc4dfc4</user-password>
+      <schema-pattern>cutter_repo.public</schema-pattern>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/../../../tmp/postgresql-9.2-1002.jdbc4.jar!/</url>
+        </library>
+        <library>
+          <url>file://$PROJECT_DIR$/../../../tmp/postgresql-driver-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

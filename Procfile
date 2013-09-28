@@ -1,0 +1,1 @@
+web: python cutter_repo/manage.py run_gunicorn --settings=config.settings -b "0.0.0.0:$PORT" -w 3
